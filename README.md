@@ -2,6 +2,8 @@
 
 A small CNN that predicts a person's age from a face photo, with a Streamlit app that works with a webcam or an uploaded image.
 
+**Live app:** https://utkface-age-prediction-0.streamlit.app/
+
 ## What it does
 
 - Takes a face image (webcam or upload)
